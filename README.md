@@ -1,2 +1,2 @@
-# 60daysofudacity
+# 60daysofudacity challenge
 Secure and Private AI Scholarship Challenge Nanodegree Program
